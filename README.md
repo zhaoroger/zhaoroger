@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### 👻 Hi, I'm Roger Zhao
+CS Software Specialist and Linguistics Minor @ University of Toronto Scarborough
+🔭 Skills: Java, C, Python, Assembly
+🌱 I’m currently learning JS, HTML/CSS
 <!--
 **zhaoroger/zhaoroger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
