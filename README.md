@@ -2,6 +2,7 @@
 CS Software Specialist and Linguistics Minor @ University of Toronto Scarborough
 
 🔭 Skills: Java, C, Python, HTML/CSS/JS
+https://www.rogerzhao.me
 
 <!--
 **zhaoroger/zhaoroger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
